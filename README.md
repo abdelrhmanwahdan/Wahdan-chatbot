@@ -1,7 +1,7 @@
 # Wahdan chatbot
 
 In this project I have created a chatbot website using natural language processing that is specialized for a fashion brand and You can ask any question in the brand and it will understand your question and answers it.<br>
-[click on this link or the video below to see the chatbot in action](https://www.youtube.com/watch?v=imtkF0nmlAU)
+[click on this link or the video below to see the chatbot in action](https://www.youtube.com/watch?v=imtkF0nmlAU)<br>
 [![Watch the chatbot video](https://img.youtube.com/vi/imtkF0nmlAU/0.jpg)](https://www.youtube.com/watch?v=imtkF0nmlAU)
 
 ## Tools
