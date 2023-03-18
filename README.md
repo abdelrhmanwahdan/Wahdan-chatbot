@@ -3,7 +3,7 @@
 In this project I have created a chatbot website using natural language processing that is specialized for a fashion brand and You can ask any question in the brand and it will understand your question and answers it.
 
 ## Watch the chatbot in action
-To watch the chatbot in action click on the below picture.<br><br>
+To watch the chatbot in action [click here](https://www.youtube.com/watch?v=imtkF0nmlAU) or on the below picture.<br><br>
 [![Watch the chatbot video](https://img.youtube.com/vi/imtkF0nmlAU/0.jpg)](https://www.youtube.com/watch?v=imtkF0nmlAU)
 
 ## Tools
