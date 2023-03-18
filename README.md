@@ -20,7 +20,7 @@ In order to run this projects you have to install requirments for the front-end 
 
 ### Front-end requirments
 
-```diff
+```
 - node.js
 - react v18.2.0
 - react-DOM v18.2.0
@@ -31,7 +31,7 @@ In order to run this projects you have to install requirments for the front-end 
 
 ### Back-end requirements
 
-```diff
+```
 - flask v1.1.2
 - numpy v1.21.6
 - torch v2.0.0
@@ -42,7 +42,7 @@ In order to run this projects you have to install requirments for the front-end 
 
 The project is divided into two main folders:
 
-```diff
+```
 - client (front-end)
 - flask-server (back-end)
 ```
