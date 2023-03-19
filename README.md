@@ -63,7 +63,7 @@ In order to run the front-end part you need to do the following:
 
 - Open terminal in the flask-server folder.
 - Create a virtual environment using the following command `python -m venv venv`.
-- Activate the virtual environment using the following command `sorce venv/bin/activate`.
+- Activate the virtual environment using the following command `source venv/bin/activate`.
 - Install the required libraries using the following command `pip install flask numpy torch transformers`.
 - Run the following command to tell flask where is your main file `export FLASK_APP=server.py`.
 - Run the following command to enable the debugger mode `export FLASK_DEBUG=1`.
