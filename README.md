@@ -11,6 +11,7 @@ To watch the chatbot in action video [click here](https://www.youtube.com/watch?
 This is a fullstack chatbot created using natural language processing so I have used different tools for different parts of the projects which are:
 
 - Hugging-face transformers library for the language model ("facebook/bart-large-mnli" model).
+- facebook/bart-large-mnli classification model.
 - React-js for the front-end part.
 - Flask for the back-end part.
 
